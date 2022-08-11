@@ -28,3 +28,5 @@ The coding language used in this analysis was Python, using Jupyter notebooks. T
 Quandl data can be found [here](data.nasdaq.com/data/UMICH/SOC37-university-of-michigan-consumer-surveybuying-conditions-for-vehicles).
 
 Original dataset can be found [here](www.kaggle.com/datasets/ryanmcummings/citi-bike-data).
+
+Tableau presentation can be viewed [here](https://public.tableau.com/shared/HK6HT288S?:display_count=n&:origin=viz_share_link).
