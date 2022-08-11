@@ -22,6 +22,6 @@ The coding language used in this analysis was Python, using Jupyter notebooks. T
 - Statsmodels.api
 
 ## Additional Resources
-### Research Sources
+### Research Source
 - Wike, Richard. “What the World Thinks about Climate Change in 7 Charts.” Pew Research Center, Pew Research Center, 18 Apr. 2016, [www.pewresearch.org/fact-tank/2016/04/18/what-the-world-thinks-about-climate-change-in-7-charts/](www.pewresearch.org/fact-tank/2016/04/18/what-the-world-thinks-about-climate-change-in-7-charts/). Accessed 9 Aug. 2022.
-- Quandl data can be found [here](data.nasdaq.com/data/UMICH/SOC37-university-of-michigan-consumer-surveybuying-conditions-for-vehicles).
+Quandl data can be found [here](data.nasdaq.com/data/UMICH/SOC37-university-of-michigan-consumer-surveybuying-conditions-for-vehicles).
